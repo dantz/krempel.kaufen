@@ -1,3 +1,13 @@
 body {
 	padding-top: 5rem;
 }
+
+main {
+	background: white;
+	padding: 3rem 0;
+}
+
+footer {
+	background: #eee;
+	padding: 3rem 0;
+}
