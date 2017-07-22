@@ -11,3 +11,19 @@ footer {
 	background: #eee;
 	padding: 3rem 0;
 }
+
+.cat {
+	list-style: none;
+	padding: 0;
+	margin: 1rem 0;
+}
+
+.cat_com {
+	list-style: disc;
+	margin: 1rem 0 2rem;
+}
+
+.cat_com_desc {
+	margin-top: .33rem;
+	color: #999;
+}
