@@ -1,15 +1,24 @@
 body {
-	padding-top: 5rem;
+	padding-top: 3rem;
 }
 
 main {
 	background: white;
-	padding: 3rem 0;
 }
 
 footer {
 	background: #eee;
+	color: #999;
 	padding: 3rem 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+	margin-bottom: 1rem;
+}
+
+section {
+	margin: 3rem 0;
 }
 
 .cat {
