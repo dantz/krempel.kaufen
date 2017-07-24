@@ -6,7 +6,7 @@ main {
 	background: white;
 }
 
-footer {
+.footer {
 	background: #eee;
 	color: #999;
 	padding: 3rem 0;
@@ -19,6 +19,21 @@ h1, h2, h3, h4, h5, h6 {
 
 section {
 	margin: 3rem 0;
+}
+
+blockquote {
+	margin: 3rem 0 4rem;
+}
+
+blockquote p {
+	font-family: 'Indie Flower', cursive;
+	font-size: 1.5rem;
+	font-style: italic;
+	margin-bottom: .25rem;
+}
+
+blockquote footer {
+	text-align: right;
 }
 
 .cat {
@@ -35,4 +50,28 @@ section {
 .cat_com_desc {
 	margin-top: .33rem;
 	color: #999;
+}
+
+.signature {
+	color: #555;
+	font-family: 'Indie Flower', cursive;
+	font-size: 2rem;
+}
+
+.navbar-brand i,
+h1 i {
+	margin-right: .4rem;
+}
+
+.footer h2 {
+	font-size: 1.5rem;
+}
+
+.footer p {
+	font-size: .85rem;
+}
+
+.cat {
+	background: #ebf7ff;
+	padding: 1.33rem;
 }
